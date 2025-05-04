@@ -1,0 +1,6 @@
+@M3alemAPI_HostAddress = http://localhost:5012
+
+GET {{M3alemAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
